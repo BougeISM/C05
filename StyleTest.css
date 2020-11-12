@@ -1,1 +1,19 @@
+/*
 StyleTest.css
+*/
+
+/* commentaire sur une ligne */
+
+h1{color : red}
+h2{color : #4CAF50}
+h3{color: rgb(87,7,153)}
+p{color : blue; font-family: arial}
+
+body{background-color: rgb(243,195,107)}
+
+body{background-image: url(«papier.png»)}
+
+table{border-collapse:collapse}
+table, th, td{1px solid black}
+
+
